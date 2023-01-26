@@ -1,4 +1,4 @@
-package com.design.pattern.adapter;
+package com.design.pattern.adapter.cls;
 
 public class Banner {
     private String string;
